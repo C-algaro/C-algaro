@@ -16,7 +16,6 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507239-3552f262-fecc-4de2-9e1a-5b4446f68969.svg" alt="JavaScript"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507232-2e73f7a4-d282-438b-b989-0c06b349cec8.svg" alt="C#"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507228-bcfd1e0c-1fc1-49d4-bbf0-2c12ed53d8b0.png" alt="C++"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507230-fc6c5c05-d80c-41cb-ae8c-2559aaaa1335.png" alt="C"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507223-4503c238-af96-4b14-b903-21f38133c9bf.png" alt="Python"/></code>
 
 
