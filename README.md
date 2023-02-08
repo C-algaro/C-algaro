@@ -20,13 +20,11 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507223-4503c238-af96-4b14-b903-21f38133c9bf.png" alt="Python"/></code>
 
 
-<p align="left">
-  
-</p>
+<p></p>
 
 ## Para entrar em contato: ##
 
 <p align="left">
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/chrystian-calgaro/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystian-calgaro/" /></a>
 </p>  
