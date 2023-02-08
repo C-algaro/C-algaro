@@ -6,7 +6,7 @@
     Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
 </p>
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507245-8906edec-54fc-4e48-b740-8092fc1aebdd.svg" alt="Java"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507236-d1c62da8-2c68-4b91-ae15-12ad4b43580a.svg" alt="Spring Framework"/></code>
