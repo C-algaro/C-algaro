@@ -33,5 +33,5 @@
 
 <div width="100%">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true"/>
-  <img width="45.5%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&title_color=E6E6FA&text_color=A0522D&bg_color=70,FF69B4,DDA0DD,D8BFD8,FFE4E1,FFE4E1"/>
+  <img width="45.3%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&title_color=E6E6FA&text_color=A0522D&bg_color=70,FF69B4,DDA0DD,D8BFD8,FFE4E1,FFE4E1"/>
 </div>
