@@ -21,7 +21,7 @@
 
 <p></p>
 
-## Para entrar em contato: ##
+## To contact:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,9 +29,9 @@
 
 <br> 
 
-## 📈 &nbsp; Code Stats ##
+## 📈 Code Stats
 
 <div width="100%">
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true"/>
-  <img width="45%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&title_color=E6E6FA&text_color=A0522D&bg_color=70,FF69B4,DDA0DD,D8BFD8,D8BFD8,FFE4E1,FFE4E1"/>
+  <img width="45%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&title_color=E6E6FA&text_color=A0522D&bg_color=70,FF69B4,DDA0DD,D8BFD8,D8BFD8,D8BFD8"/>
 </div>
