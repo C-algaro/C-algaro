@@ -28,8 +28,6 @@
 </p>  
 
 <br> 
-<br>
-<br>
 
 ## 📈 &nbsp; Code Stats ##
 
