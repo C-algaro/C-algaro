@@ -44,6 +44,4 @@
 <img src="https://profile-counter.glitch.me/{C-algaro}/count.svg"/> 
 </div> 
 
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
