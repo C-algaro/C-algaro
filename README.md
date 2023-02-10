@@ -1,6 +1,8 @@
 ### Olá, Sejam Bem-Vindos! 👋
 
-<img src="https://user-images.githubusercontent.com/124257673/217502209-f5af57e8-90a5-4cf4-8fee-d4c8ac8d53fd.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/124257673/217502209-f5af57e8-90a5-4cf4-8fee-d4c8ac8d53fd.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Code">
+
+<br>
 
 <p align="left"> 
     Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
@@ -29,7 +31,7 @@
 
 <br> 
 
-## 📈 Code Stats
+# 📈 Code Stats
 
 <div width="100%" align="center">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true"/>
