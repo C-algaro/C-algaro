@@ -42,4 +42,4 @@
 <img src="https://profile-counter.glitch.me/{C-algaro}&color=DDA0DD/count.svg"/> 
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
