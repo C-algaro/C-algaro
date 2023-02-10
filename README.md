@@ -42,12 +42,4 @@
   </a>
 </div>
 
-<br>
-
-## 🎲 Visitor Count
-
-<div align="center" width="100%">
-    <img src="https://profile-counter.glitch.me/{C-algaro}/count.svg" alt="Visitor Counter"/> 
-</div> 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
