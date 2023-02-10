@@ -34,8 +34,12 @@
 # 📈 Code Stats
 
 <div width="100%" align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true"/>
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&title_color=E6E6FA&text_color=A0522D&bg_color=70,FF69B4,DDA0DD,D8BFD8,D8BFD8,D8BFD8"/>
+  <a href="https://github.com/C-algaro/github-readme-stats">
+    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/C-algaro/github-readme-stats">
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=synthwave&text_color=FFFFFF" alt="Most Used Languages"/>
+  </a>
 </div>
 
 <br>
@@ -43,7 +47,7 @@
 ## 🎲 Visitor Count
 
 <div align="center" width="100%">
-<img src="https://profile-counter.glitch.me/{C-algaro}/count.svg"/> 
+    <img src="https://profile-counter.glitch.me/{C-algaro}/count.svg" alt="Visitor Counter"/> 
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
