@@ -35,3 +35,5 @@
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true"/>
   <img width="45%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&title_color=E6E6FA&text_color=A0522D&bg_color=70,FF69B4,DDA0DD,D8BFD8,D8BFD8,D8BFD8"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=120&section=footer" />
