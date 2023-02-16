@@ -35,7 +35,7 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="53%" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats"/>
+    <img width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/C-algaro/github-readme-stats">
     <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=synthwave&text_color=FFFFFF" alt="Most Used Languages"/>
