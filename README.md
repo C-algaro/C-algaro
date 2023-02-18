@@ -5,7 +5,7 @@
 <br>
 
 <p align="left"> 
-    Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
+    Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, e foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
 </p>
 
 ## 🚀 My Skills
