@@ -8,6 +8,7 @@
     Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, e foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
 </p>
 
+#
 ### 🚀 Tecnologias e Ferramentas:
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507245-8906edec-54fc-4e48-b740-8092fc1aebdd.svg" alt="Java"/></code>
@@ -30,6 +31,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374394-0edec414-1815-4395-9719-d46c04744930.svg" alt="Unity"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375074-4beafa5e-60f9-43cb-ac68-121a888e9a5f.svg" alt="Arduino"/></code>
 
+#
 ### 🌐 Onde me encontrar:
 
 <p align="left">
@@ -40,9 +42,9 @@
 </br>
 
 #
-
+#
 # 📈 Code Stats:
-
+#
 <div width="100%" align="center">
   <a href="https://github.com/C-algaro/github-readme-stats">
     <img width="54%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-algaro&show_icons=true&theme=synthwave&hide_border=true&title_color=DA70D6&text_color=F8F8FF&icon_color=7756b9" alt="GitHub Stats"/>
