@@ -22,7 +22,7 @@
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507236-d1c62da8-2c68-4b91-ae15-12ad4b43580a.svg" alt="Spring Framework"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375785-0c22dd89-8891-4441-85dd-53ad825b35d4.svg" alt="API REST"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374327-cb5414cc-a245-46c5-acec-610ab13a8726.svg" alt="Microservices"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221376538-04a647b0-9970-46f2-a5ed-c9be377d89e2.svg" alt="Microservices"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507234-760588e2-b27d-4ceb-aea9-54fc64fdd338.svg" alt="SQL"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221373885-93599522-4b75-4f4a-97be-3e1fad7f0579.svg" alt="Postman"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374530-46b67367-9d83-4701-bc4f-c8d85b7b1828.svg" alt="Maven"/></code>
