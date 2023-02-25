@@ -8,7 +8,7 @@
     Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, e foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
 </p>
 
-## 🚀 My Skills
+### 🚀 Tecnologias e Ferramentas:
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507245-8906edec-54fc-4e48-b740-8092fc1aebdd.svg" alt="Java"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507243-554f7e9b-9531-4f7c-8fab-98ec2d17c7c8.svg" alt="HTML5"/></code>
@@ -30,15 +30,18 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374394-0edec414-1815-4395-9719-d46c04744930.svg" alt="Unity"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375074-4beafa5e-60f9-43cb-ac68-121a888e9a5f.svg" alt="Arduino"/></code>
 
-## To contact:
+### 🌐 Onde me encontrar:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/c.algaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>  
 
 </br>
 
-# 📈 Code Stats
+#
+
+# 📈 Code Stats:
 
 <div width="100%" align="center">
   <a href="https://github.com/C-algaro/github-readme-stats">
