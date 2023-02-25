@@ -35,10 +35,10 @@
 
 <div width="100%" align="center">
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-algaro&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats"/>
+    <img width="54%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-algaro&show_icons=true&theme=synthwave&hide_border=true&title_color=DA70D6&text_color=F8F8FF&icon_color=7756b9" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=synthwave&text_color=FFFFFF" alt="Most Used Languages"/>
+    <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=synthwave&title_color=DA70D6&text_color=FFFFFF" alt="Most Used Languages"/>
   </a>
 </div>
 
