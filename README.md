@@ -38,8 +38,6 @@
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>  
 
-<br> 
-
 # 📈 Code Stats
 
 <div width="100%" align="center">
