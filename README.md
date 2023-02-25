@@ -30,13 +30,13 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374394-0edec414-1815-4395-9719-d46c04744930.svg" alt="Unity"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375074-4beafa5e-60f9-43cb-ac68-121a888e9a5f.svg" alt="Arduino"/></code>
 
-<p></p>
-
 ## To contact:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>  
+
+</br>
 
 # 📈 Code Stats
 
@@ -49,4 +49,5 @@
   </a>
 </div>
 
+</br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
