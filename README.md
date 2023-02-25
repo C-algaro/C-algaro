@@ -18,6 +18,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507230-fc6c5c05-d80c-41cb-ae8c-2559aaaa1335.png" alt="C"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507223-4503c238-af96-4b14-b903-21f38133c9bf.png" alt="Python"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375785-0c22dd89-8891-4441-85dd-53ad825b35d4.svg" alt="API REST"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221376258-6d86b0f0-cdfc-4a60-b020-b42f4362789a.svg" alt="GIT"/></code>
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507236-d1c62da8-2c68-4b91-ae15-12ad4b43580a.svg" alt="Spring Framework"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374327-cb5414cc-a245-46c5-acec-610ab13a8726.svg" alt="Microservices"/></code>
