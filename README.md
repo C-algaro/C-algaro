@@ -39,8 +39,6 @@
     <a href="https://www.instagram.com/c.algaro/?theme=dark" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
 </p>
 
-</br>
-
 #
 #
 # 📈 Code Stats:
