@@ -45,10 +45,10 @@
 #
 <div width="100%" align="center">
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true" alt="GitHub Stats"/>
+    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub Status" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly" alt="Most Used Languages"/>
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Six Most Used Languages" alt="Most Used Languages"/>
   </a>
 </div>
 
