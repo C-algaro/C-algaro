@@ -1,15 +1,15 @@
-### Olá, Sejam Bem-Vindos! 👋
+### Hello and welcome! 👋
 
 <img src="https://user-images.githubusercontent.com/124257673/217502209-f5af57e8-90a5-4cf4-8fee-d4c8ac8d53fd.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Code">
 
 <br>
 
 <p align="left"> 
-    Sou um <strong>Desenvolvedor Back-End</strong> que está sempre se reinventando e aprendendo coisas novas. Amo os desafios que a tecnologia me proporciona, porque sempre posso inovar, conectando experiências e conhecimentos diferentes em cada situação. Me encontrei na programação, depois de passar por várias áreas da TI, e foi aí que descobri a minha paixão por codificar. Formado desde 2021 e em busca de novas parcerias, projetos e colaboração.
+    I'm a <strong>Back-End Developer</strong> who's always reinventing himself and learning new things. I love the challenges that technology presents because I can always innovate by connecting different experiences and knowledge in each situation. I found my calling in programming after exploring various areas of IT, and that's when I discovered my passion for coding. I graduated in 2021 and I'm now seeking new partnerships, projects, and collaborations.
 </p>
 
 #
-### 🚀 Tecnologias e Ferramentas:
+### 🚀 Technologies and Tools:
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507245-8906edec-54fc-4e48-b740-8092fc1aebdd.svg" alt="Java"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507243-554f7e9b-9531-4f7c-8fab-98ec2d17c7c8.svg" alt="HTML5"/></code>
@@ -32,7 +32,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375074-4beafa5e-60f9-43cb-ac68-121a888e9a5f.svg" alt="Arduino"/></code>
 
 #
-### 🌐 Onde me encontrar:
+### 🌐 Where to find me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noreferrer noopener"></a> 
