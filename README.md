@@ -35,10 +35,10 @@
 #
 <div width="100%">
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="475px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/>
+    <img width="375px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="360px" src="https://github-readme-stats-silk-alpha.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Six%20Most%20Used%20Languages" alt="Six Most Used Languages"/>
+    <img width="260px" src="https://github-readme-stats-silk-alpha.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Six%20Most%20Used%20Languages" alt="Six Most Used Languages"/>
   </a>
 </div>
 
