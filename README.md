@@ -24,16 +24,17 @@
 #
 ### 🌐 Where to find me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noreferrer noopener"></a> 
-    <a href="https://www.instagram.com/c.algaro/?theme=dark" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
-</p>
+<div>
+	<a href="https://github.com/C-algaro"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/chrystian-calgaro/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/c.algaro"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</div>
 
 #
 #
 # 📈 Code Stats:
 #
-<div width="100%" align="left" wrap="hard">
+<div width="100%">
   <a href="https://github.com/C-algaro/github-readme-stats">
     <img height="225px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/>
   </a>
