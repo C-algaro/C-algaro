@@ -12,24 +12,22 @@
 ### 🚀 Technologies and Tools:
 
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507245-8906edec-54fc-4e48-b740-8092fc1aebdd.svg" alt="Java"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507236-d1c62da8-2c68-4b91-ae15-12ad4b43580a.svg" alt="Spring Framework"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507230-fc6c5c05-d80c-41cb-ae8c-2559aaaa1335.png" alt="C"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226130037-c45b6397-e893-466d-842e-1172b80dbc51.png" alt="Apache Tomcat"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507223-4503c238-af96-4b14-b903-21f38133c9bf.png" alt="Python"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507243-554f7e9b-9531-4f7c-8fab-98ec2d17c7c8.svg" alt="HTML5"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507241-e77fa63c-fcac-471a-a3d6-430b76e47f10.svg" alt="CSS"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507239-3552f262-fecc-4de2-9e1a-5b4446f68969.svg" alt="JavaScript"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507232-2e73f7a4-d282-438b-b989-0c06b349cec8.svg" alt="C#"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507230-fc6c5c05-d80c-41cb-ae8c-2559aaaa1335.png" alt="C"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507223-4503c238-af96-4b14-b903-21f38133c9bf.png" alt="Python"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221376258-6d86b0f0-cdfc-4a60-b020-b42f4362789a.svg" alt="GIT"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374049-3620851d-f964-44a4-a001-2ba0e58c9ed0.svg" alt="Android"/></code>
 
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507236-d1c62da8-2c68-4b91-ae15-12ad4b43580a.svg" alt="Spring Framework"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226126098-946d9a1d-0b51-48cc-987c-8e6ea10a51fb.svg" alt="Postgres"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226129293-48c1660f-62ae-40d7-95f4-0ddfacf73c77.png" alt="Elasticsearch"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226129413-136d3508-b97c-43e8-9909-f1e770c76328.png" alt="RabbitMQ"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375785-0c22dd89-8891-4441-85dd-53ad825b35d4.svg" alt="API REST"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221376538-04a647b0-9970-46f2-a5ed-c9be377d89e2.svg" alt="Microservices"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507234-760588e2-b27d-4ceb-aea9-54fc64fdd338.svg" alt="SQL"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221373885-93599522-4b75-4f4a-97be-3e1fad7f0579.svg" alt="Postman"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374530-46b67367-9d83-4701-bc4f-c8d85b7b1828.svg" alt="Maven"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374718-ea3cf095-421b-43fb-9b0f-6da1a534e90c.svg" alt="Gradle"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221374394-0edec414-1815-4395-9719-d46c04744930.svg" alt="Unity"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221375074-4beafa5e-60f9-43cb-ac68-121a888e9a5f.svg" alt="Arduino"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226126603-64b0c7c4-5178-4acd-b74d-054b5b29ae38.png" alt="JWT"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226129483-d4ce1ef4-b7c7-47ba-a84a-ff7be93708b1.png" alt="Kibana"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/221376258-6d86b0f0-cdfc-4a60-b020-b42f4362789a.svg" alt="GIT"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226126420-19469a6e-fa76-4cae-af4c-2fe47913a891.png" alt="UML"/></code>
 
 #
 ### 🌐 Where to find me:
