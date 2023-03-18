@@ -33,7 +33,7 @@
 #
 # 📈 Code Stats:
 #
-<div width="100%">
+<div width="100%" align="center">
   <a href="https://github.com/C-algaro/github-readme-stats">
     <img height="190px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/>
   </a>
