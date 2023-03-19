@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/124257673/217502209-f5af57e8-90a5-4cf4-8fee-d4c8ac8d53fd.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Code">
 
 <br>
-
 <p align="left"> 
     I'm a <strong>Back-End Developer</strong> who's always reinventing himself and learning new things. I love the challenges that technology presents because I can always innovate by connecting different experiences and knowledge in each situation. I found my calling in programming after exploring various areas of IT, and that's when I discovered my passion for coding. I graduated in 2021 and I'm now seeking new partnerships, projects, and collaborations.
 </p>
@@ -26,20 +25,17 @@
 
 <div>
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noreferrer noopener"></a> 
-    <a href="https://www.instagram.com/c.algaro/?theme=dark" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
+  <a href="https://www.instagram.com/c.algaro/?theme=dark" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer noopener"></a>
 </div>
+
 
 #
 #
 # 📈 Code Stats:
 #
 <div width="100%">
-  <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="460px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/C-algaro/github-readme-stats">
-    <img width="350px" src="https://github-readme-stats-silk-alpha.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Six%20Most%20Used%20Languages" alt="Six Most Used Languages"/>
-  </a>
+  <a href="https://github.com/C-algaro/github-readme-stats"><img width="460px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/></a>
+  <a href="https://github.com/C-algaro/github-readme-stats"><img width="350px" src="https://github-readme-stats-silk-alpha.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Six%20Most%20Used%20Languages" alt="Six Most Used Languages"/></a>
 </div>
 
 </br>
