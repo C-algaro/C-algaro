@@ -26,15 +26,3 @@
 <div>
   <a href="https://www.linkedin.com/in/chrystian-calgaro/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noreferrer noopener"></a> 
 </div>
-
-#
-#
-# 📈 Code Stats:
-#
-<div width="100%">
-  <a href="https://github.com/C-algaro/github-readme-stats"><img width="460px" src="https://github-readme-stats-silk-alpha.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/></a>
-  <a href="https://github.com/C-algaro/github-readme-stats"><img width="350px" src="https://github-readme-stats-silk-alpha.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Six%20Most%20Used%20Languages" alt="Six Most Used Languages"/></a>
-</div>
-
-</br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
