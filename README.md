@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/124257673/217502209-f5af57e8-90a5-4cf4-8fee-d4c8ac8d53fd.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Code">
 
 <br>
-<p align="left"> 
+<p align="justify"> 
     Programmer with experience in process automation using Java, UiPath, Python, and SQL. Skilled in agile environments with a focus on efficiency, scalability, and technical documentation. Proven track record of delivering solutions that save time, eliminate manual effort, and increase productivity.
 </p>
 
