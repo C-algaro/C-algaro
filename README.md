@@ -4,7 +4,7 @@
 
 <br>
 <p align="left"> 
-    I'm a <strong>Back-End Developer</strong> who's always reinventing himself and learning new things. I love the challenges that technology presents because I can always innovate by connecting different experiences and knowledge in each situation. I found my calling in programming after exploring various areas of IT, and that's when I discovered my passion for coding. I graduated in 2021 and I'm now seeking new partnerships, projects, and collaborations.
+    Passionate developer with experience in automating business processes using Java, UiPath, Python, and SQL. Skilled in building scalable back-end systems, integrating APIs, and creating resilient RPA solutions. Strong focus on clean architecture, technical documentation, and agile environments. Committed to delivering efficient and maintainable solutions that drive real impact.
 </p>
 
 #
