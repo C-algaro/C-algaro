@@ -4,7 +4,7 @@
 
 <br>
 <p align="left"> 
-    Passionate developer with experience in automating business processes using Java, UiPath, Python, and SQL. Skilled in building scalable back-end systems, integrating APIs, and creating resilient RPA solutions. Strong focus on clean architecture, technical documentation, and agile environments. Committed to delivering efficient and maintainable solutions that drive real impact.
+    Programmer with experience in process automation using Java, UiPath, Python, and SQL. Skilled in agile environments with a focus on efficiency, scalability, and technical documentation. Proven track record of delivering solutions that save time, eliminate manual effort, and increase productivity.
 </p>
 
 #
