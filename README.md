@@ -4,7 +4,7 @@
 
 <br>
 <p align="justify"> 
-    I'm a programmer with experience in process automation using Java, UiPath, Python, and SQL. Skilled in agile environments, with a strong focus on efficiency, scalability, and technical documentation. Proven track record of delivering solutions that save time, reduce manual effort, and increase productivity.
+    I'm a programmer experienced in automation and intelligent software. With a strong background in Java backend development, I build efficient and scalable solutions that save time, reduce manual work, and boost productivity. I also have hands-on experience with AI techniques, process automation, and Python scripting to streamline workflows and seamlessly integrate systems. I thrive in agile teams where clear communication and impactful results matter most.
 </p>
 
 #
