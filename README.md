@@ -10,16 +10,28 @@
 #
 ### 🚀 Technologies and Tools:
 
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507245-8906edec-54fc-4e48-b740-8092fc1aebdd.svg" alt="Java"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507236-d1c62da8-2c68-4b91-ae15-12ad4b43580a.svg" alt="Spring Framework"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226126098-946d9a1d-0b51-48cc-987c-8e6ea10a51fb.svg" alt="Postgres"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226129293-48c1660f-62ae-40d7-95f4-0ddfacf73c77.png" alt="Elasticsearch"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226126603-64b0c7c4-5178-4acd-b74d-054b5b29ae38.png" alt="JWT"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507243-554f7e9b-9531-4f7c-8fab-98ec2d17c7c8.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507241-e77fa63c-fcac-471a-a3d6-430b76e47f10.svg" alt="CSS"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/217507239-3552f262-fecc-4de2-9e1a-5b4446f68969.svg" alt="JavaScript"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/124257673/226126420-19469a6e-fa76-4cae-af4c-2fe47913a891.png" alt="UML"/></code>
+<!-- Bloco principal: Java stack -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
+</a>
 
+<br>
+
+<!-- Bloco ferramentas dev / cloud / automação -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" title="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+</a>
+  
 #
 ### 🌐 Where to find me:
 
@@ -32,8 +44,8 @@
 # 📈 Code Stats:
 #
 <div width="100%">
-  <a href="https://github.com/C-algaro/github-readme-stats"><img width="410px" src="https://github-readme-stats-w1t9-c-algaro.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/></a>
-  <a href="https://github.com/C-algaro/github-readme-stats"><img width="350px" src="https://github-readme-stats-w1t9-c-algaro.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages"/></a>
+  <a href="https://github.com/C-algaro/github-readme-stats" align="left" ><img width="410px" src="https://github-readme-stats-w1t9-c-algaro.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats"/></a>
+  <a href="https://github.com/C-algaro/github-readme-stats" align="right"><img width="350px" src="https://github-readme-stats-w1t9-c-algaro.vercel.app/api/top-langs/?username=C-algaro&layout=compact&hide_border=true&theme=jolly&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages"/></a>
 </div>
 
 </br>
