@@ -40,11 +40,5 @@
 </div>
 
 #
-### 📈 Code Stats:
-<div width="100%">
-  <a href="https://github.com/C-algaro/github-readme-stats" align="left" ><img width="410px" src="https://github-readme-stats-w1t9-c-algaro.vercel.app/api?username=C-algaro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Status" alt="GitHub Stats" title="GitHub Stats"/></a>
-</div>
-
-#
 </br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer" />
